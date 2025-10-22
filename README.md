@@ -1,7 +1,7 @@
 # Parcial01_ValentinaCastro
 
-## 1) Clonar o copiar el proyecto
-cd <carpeta-del-proyecto>
+## 1) Clonar el proyecto
+cd (carpeta-del-proyecto)
 
 ## 2) (opcional) Crear y activar un virtualenv
 python -m venv .venv
