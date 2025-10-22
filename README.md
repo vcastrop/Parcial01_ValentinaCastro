@@ -1,4 +1,4 @@
-# Parcial01_ValentinaCastro
+# Parcial02_ValentinaCastro
 
 microservicio que reciba un número por URL y devuelva una respuesta JSON con:
 - El número recibido
